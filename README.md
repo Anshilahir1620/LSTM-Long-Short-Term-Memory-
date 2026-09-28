@@ -27,16 +27,17 @@ Given a sequence of words, predict a probable next word.
 The model takes a short text as input and predicts the next words one by one.
 
 ### Input 1
-
+``
 to be or not to be
 Output 1
 to be or not to be a man and the king of the world and the king of
-the king and the king of york and the king enter the
+the king and the king of york and the king enter the```
 ### Input 2
+```
 the king is
 ##Output 2
 the king is the king of the king and the king of the king and the king
-is the king and the king of york and the king enter the king
+is the king and the king of york and the king enter the king```
 ###Input 3
 love is
 ###Output 3
